@@ -224,12 +224,12 @@ __And retail banks will also lend part of their reserves to each other overnight
 
 __overnight__
 
-It means for or during the night. (adj. or adv.)
+It means for or during the night (adj. or adv.)
 
 - an overnight flight
 - We stayed overnight in London after the theatre.
 
-It also means very quickly or suddenly
+It also means very quickly or suddenly (adj. or adv.)
 
 - The play was an overnight success.
 - He became a millionaire overnight.
@@ -296,7 +296,7 @@ Finally, it means to have a sexual relationship with someone who is not your usu
 
 - oh that's not my girlfriend, that's just some girl I play around with.
 
-__oh that's not my GF, that's just some girl i play around with__
+__And so I wrote this article. It was put out in the Journal of Economic Perspectives.__
 
 __put out__
 
