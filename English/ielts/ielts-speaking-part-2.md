@@ -1,5 +1,30 @@
 # IELTS Speaking part 2
 
+## Tricks
+
+Well, there are quite a lot of _nouns_ which/who/whom/where I
+have _verb_ in my life up until now. But the one that I’ve decided to talk about in the short time I’ve been allotted is _noun_ that/who is (or was) very _adj_ as far as I’m concerned.
+
+(bullet points in the cue cards, do not develop too much since time is limited)
+
+* (20 seconds)
+* (20 seconds)
+* (20 seconds)
+
+And why I have decided to talk about _this subject_?
+
+Well, I should say:
+
+1. The chief/primary reason is that….
+2. The second reason behind my decision is that ... helped me
+change my mindset towards ...
+
+实际使用的时候可以灵活一些，比如可以以转折开头而不是像模板一样开头，如果没有change my mindset或者想不到两点原因可以跳过第二点。
+
+该模板的好处是具有明确的开头，中间和结尾，并且开头就给了使用一次形容词的机会。
+
+## Examples
+
 __Talk about a place where people like to listen to music.__
 
 You should say:
